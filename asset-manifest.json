@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-site-react/static/css/main.27694185.css",
+    "main.js": "/portfolio-site-react/static/js/main.23f5a004.js",
+    "static/media/estate-bg.jpg": "/portfolio-site-react/static/media/estate-bg.854c8979f5582f48137f.jpg",
+    "static/media/processing-24.jpg": "/portfolio-site-react/static/media/processing-24.c361402699cd8f133541.jpg",
+    "static/media/Arron-bg.jpg": "/portfolio-site-react/static/media/Arron-bg.c7f204cf5221c01271fc.jpg",
+    "static/media/my-foto-2.jpeg": "/portfolio-site-react/static/media/my-foto-2.e30d7e399a8d0702da80.jpeg",
+    "static/media/my-foto-4.jpeg": "/portfolio-site-react/static/media/my-foto-4.527c6326a516e81a21fd.jpeg",
+    "static/media/my-foto-3.jpeg": "/portfolio-site-react/static/media/my-foto-3.598b3f54e64730ce4a6c.jpeg",
+    "static/media/edison-shoes-bg.jpg": "/portfolio-site-react/static/media/edison-shoes-bg.2d8055fcf45efc807a09.jpg",
+    "static/media/counter-bg.jpg": "/portfolio-site-react/static/media/counter-bg.ad4b937eda7cb3eab39b.jpg",
+    "static/media/e-mentor-bg.jpg": "/portfolio-site-react/static/media/e-mentor-bg.c96fc6f4077e204d6b59.jpg",
+    "static/media/my-foto-1.jpeg": "/portfolio-site-react/static/media/my-foto-1.6ddcddbfcd7cd30be857.jpeg",
+    "static/media/ArodoraPro-Light.otf": "/portfolio-site-react/static/media/ArodoraPro-Light.93750f5f4f0e4ed890b1.otf",
+    "static/media/botanika-bg.jpg": "/portfolio-site-react/static/media/botanika-bg.c685131f938a8d8d1343.jpg",
+    "static/media/conquest-bg.jpg": "/portfolio-site-react/static/media/conquest-bg.c770a6dbf3f780fb74ee.jpg",
+    "static/media/NEXT ART_Regular.otf": "/portfolio-site-react/static/media/NEXT ART_Regular.38354cf5d95917b96928.otf",
+    "static/media/NEXT ART_Bold.otf": "/portfolio-site-react/static/media/NEXT ART_Bold.873fd5579a8d94721eaf.otf",
+    "static/media/NEXT ART_SemiBold.otf": "/portfolio-site-react/static/media/NEXT ART_SemiBold.853bc77b94e81b9e218e.otf",
+    "index.html": "/portfolio-site-react/index.html",
+    "main.27694185.css.map": "/portfolio-site-react/static/css/main.27694185.css.map",
+    "main.23f5a004.js.map": "/portfolio-site-react/static/js/main.23f5a004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27694185.css",
+    "static/js/main.23f5a004.js"
+  ]
+}
